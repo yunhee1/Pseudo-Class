@@ -15,7 +15,7 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> pseudo Class에 오신 것을 환영합니다. 저희는 최신의 AI 동향을 캐치업하고, 기초/기본이 되는 AI 지식에 대해 차근차근 다집니다. 그리고 노코드 툴인 n8n으로 상상했던 프로덕트를 세상에 선보일거예요!
+> Pseudo Class에 오신 것을 환영합니다. 저희는 최신의 AI 동향을 캐치업하고, 기초/기본이 되는 AI 지식에 대해 차근차근 다집니다. 그리고 노코드 툴인 n8n으로 상상했던 프로덕트를 세상에 선보일거예요!
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
